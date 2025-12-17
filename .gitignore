@@ -1,0 +1,9 @@
+# Maven / Gradle
+target/
+build/
+
+# IDE
+.project
+.classpath
+.settings/
+.externalToolBuilders/ 

@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.blogtracker {
+	background-image: url("/backlogtracker/resources/images/login-background-image.jpg");
+	background-size: cover;
+}
+
+.errMsg {
+	color :red !important;
+}
+
+.loutMsg {
+	color :blueviolet  !important;
+}
